@@ -1,0 +1,646 @@
+[
+  {
+    "name": "2 Wild 2 Die Slot Feat 322x186",
+    "img": "./images/2-wild-2-die-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "8 Bit Quest Slot Feat 1 322x186",
+    "img": "./images/8-bit-quest-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Aiko And The Wind Spirit Slot Feat 322x186",
+    "img": "./images/Aiko-and-the-Wind-Spirit-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Alchemist Wonders Slot Feat 322x186",
+    "img": "./images/alchemist-wonders-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Alpha Eagle Slot Feat 322x186",
+    "img": "./images/alpha-eagle-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Army Of Ares Slot Feat 326x245",
+    "img": "./images/army-of-ares-slot-feat-326x245.jpg"
+  },
+  {
+    "name": "Aztec Twist Slot Feat 322x186",
+    "img": "./images/aztec-twist-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Bash Bros Slot Feat 1 322x186",
+    "img": "./images/Bash-Bros-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Beam Boys Slot Feat 322x186",
+    "img": "./images/beam-boys-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Beast Below Slot Feat 1 322x186",
+    "img": "./images/beast-below-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Benny The Beer Slot Feat 322x186",
+    "img": "./images/benny-the-beer-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Bloodthirst Slot Feat 1 322x186",
+    "img": "./images/bloodthirst-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Book Of Time Slot Feat 322x186",
+    "img": "./images/book-of-time-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Booze Bash Slot Feat 1 322x186",
+    "img": "./images/booze-bash-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Born Wild Slot Hacksaw Feat 322x186",
+    "img": "./images/born-wild-slot-hacksaw-feat-322x186.jpg"
+  },
+  {
+    "name": "Bouncy Bombs Slot Feat 322x186",
+    "img": "./images/bouncy-bombs-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Break Bones Slot Feat 322x186",
+    "img": "./images/break-bones-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Buffalo Stack N Sync Slot Feat 322x186",
+    "img": "./images/buffalo-stack-n-sync-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Bullets And Bounty Slot Feat 322x186",
+    "img": "./images/Bullets-and-Bounty-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Cash Compass Feat 322x186",
+    "img": "./images/cash-compass-feat-322x186.jpg"
+  },
+  {
+    "name": "Cash Crew Slot Feat 322x186",
+    "img": "./images/cash-crew-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Cash Quest Slot Feat 322x186",
+    "img": "./images/cash-quest-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Chaos Crew 2 Slot Feat 322x186",
+    "img": "./images/Chaos-Crew-2-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Chaos Crew 3 Slot Feat 322x186",
+    "img": "./images/chaos-crew-3-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Chaos Crew Feat 322x186",
+    "img": "./images/chaos-crew-feat-322x186.jpg"
+  },
+  {
+    "name": "Circle Of Life Slot Feat 1 326x245",
+    "img": "./images/Circle-of-Life-slot-feat-1-326x245.jpg"
+  },
+  {
+    "name": "Cloud Princess Slot Feat 1 322x186",
+    "img": "./images/Cloud-Princess-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Club Cabana Slot Feat 1 322x186",
+    "img": "./images/club-cabana-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Cubes 2 Slot Hacksaw Feat 322x186",
+    "img": "./images/cubes-2-slot-hacksaw-feat-322x186.jpg"
+  },
+  {
+    "name": "Cubes Feat 322x186",
+    "img": "./images/cubes-feat-322x186.jpg"
+  },
+  {
+    "name": "Cup Heroes Slot Feat 322x186",
+    "img": "./images/cup-heroes-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Cursed Crypt Slot Feat 1 322x186",
+    "img": "./images/cursed-crypt-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Cursed Seas Slot Feat 1 322x186",
+    "img": "./images/cursed-seas-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Danny Dollar Slot Feat 1 322x186",
+    "img": "./images/danny-dollar-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Dark Summoning Slot Feat 322x186",
+    "img": "./images/dark-summoning-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Dawn Of Kings Slot Feat 1 322x186",
+    "img": "./images/dawn-of-kings-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Dead Headz Slot Feat 1 326x245",
+    "img": "./images/Dead-Headz-slot-feat-1-326x245.jpg"
+  },
+  {
+    "name": "Densho Slot Feat 1 322x186",
+    "img": "./images/densho-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Divine Drop Slot Feat 1 322x186",
+    "img": "./images/divine-drop-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Donny And Danny Slot Feat 326x245",
+    "img": "./images/donny-and-danny-slot-feat-326x245.jpg"
+  },
+  {
+    "name": "Donny Dough Slot Feat 1 322x186",
+    "img": "./images/donny-dough-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Donut Division Slot Feat 1 322x186",
+    "img": "./images/Donut-Division-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Dorks Of The Deep Slot Feat 322x186",
+    "img": "./images/Dorks-of-the-Deep-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Dork Unit Slot Feat 322x186",
+    "img": "./images/dork-unit-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Double Rainbow Feat 322x186",
+    "img": "./images/double-rainbow-feat-322x186.jpg"
+  },
+  {
+    "name": "Dragons Domain Slot Feat 322x186",
+    "img": "./images/dragons-domain-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Drop Em Slot Feat 322x186",
+    "img": "./images/drop-em-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Duel At Dawn Slot Feat 322x186",
+    "img": "./images/Duel-At-Dawn-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Eternal Nile Slot Feat 322x186",
+    "img": "./images/eternal-nile-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Evil Dozen Slot Feat 1 326x245",
+    "img": "./images/evil-dozen-slot-feat-1-326x245.jpg"
+  },
+  {
+    "name": "Evil Eyes Slot Feat 322x186",
+    "img": "./images/evil-eyes-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Eye Of Medusa Slot Feat 1 322x186",
+    "img": "./images/Eye-of-Medusa-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Eye Of The Panda Slot Feat 322x186",
+    "img": "./images/eye-of-the-panda-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Farmhouse Slot Feat 326x245",
+    "img": "./images/farmhouse-slot-feat-326x245.jpg"
+  },
+  {
+    "name": "Fear The Dark Slot Feat 1 322x186",
+    "img": "./images/fear-the-dark-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Feel The Beat Slot Feat 322x186",
+    "img": "./images/feel-the-beat-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Fighter Pit Slot Feat 1 322x186",
+    "img": "./images/Fighter-Pit-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Fire My Laser Slot Feat 1 322x186",
+    "img": "./images/fire-my-laser-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Fist Of Destruction Slot Feat 1 322x186",
+    "img": "./images/Fist-of-Destruction-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Forbidden Fury Slot Feat 326x245",
+    "img": "./images/forbidden-fury-slot-feat-326x245.jpg"
+  },
+  {
+    "name": "Forest Fortune Feat 322x186",
+    "img": "./images/forest-fortune-feat-322x186.jpg"
+  },
+  {
+    "name": "Franks Farm Slot Feat 1 322x186",
+    "img": "./images/franks-farm-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Freds Food Truck Slot Feat 322x186",
+    "img": "./images/freds-food-truck-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Frkn Bananas Slot Feat 322x186",
+    "img": "./images/frkn-bananas-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Fruit Duel Slot Feat 322x186",
+    "img": "./images/fruit-duel-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Frutz Slot Hacksaw Feat 322x186",
+    "img": "./images/frutz-slot-hacksaw-feat-322x186.jpg"
+  },
+  {
+    "name": "Get The Cheese Slot Feat 1 322x186",
+    "img": "./images/get-the-cheese-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Gladiator Legends Slot Feat 322x186",
+    "img": "./images/gladiator-legends-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Gronks Gems Slot Feat 322x186",
+    "img": "./images/gronks-gems-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Hand Of Anubis Slot Feat 322x186",
+    "img": "./images/hand-of-anubis-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Harvest Wilds Hoppers Slot Feat 322x186",
+    "img": "./images/harvest-wilds-hoppers-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Hauntedcircus Feat 322x186",
+    "img": "./images/hauntedcircus-feat-322x186.jpg"
+  },
+  {
+    "name": "Hop N Pop Slot Hacksaw Feat 322x186",
+    "img": "./images/hop-n-pop-slot-hacksaw-feat-322x186.jpg"
+  },
+  {
+    "name": "Hounds Of Hell Slot Feat 1 322x186",
+    "img": "./images/Hounds-of-Hell-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Immortal Desire Slot Feat 322x186",
+    "img": "./images/Immortal-Desire-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Invictus Slot Feat 1 322x186",
+    "img": "./images/invictus-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Itero Slot Feat 322x186",
+    "img": "./images/itero-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Jaws Of Justice Slot Feat 1 326x245",
+    "img": "./images/Jaws-of-Justice-slot-feat-1-326x245.jpg"
+  },
+  {
+    "name": "Jelly Slice Slot Feat 1 322x186",
+    "img": "./images/jelly-slice-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Joker Bombs Slot Feat 2 322x186",
+    "img": "./images/joker-bombs-slot-feat-2-322x186.jpg"
+  },
+  {
+    "name": "Keep Em Cool Slot Feat 1 322x186",
+    "img": "./images/keep-em-cool-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Keep Em Slot Feat 1 322x186",
+    "img": "./images/keep-em-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "King Carrot Slot Feat 322x186",
+    "img": "./images/king-carrot-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Klowns Slot Feat 322x186",
+    "img": "./images/klowns-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Le Bandit Slot Feat 1 322x186",
+    "img": "./images/le-bandit-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Le Cowboy Slot Feat 326x245",
+    "img": "./images/le-cowboy-slot-feat-326x245.jpg"
+  },
+  {
+    "name": "Le King Slot Feat 1 322x186",
+    "img": "./images/le-king-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Le Pharaoh Slot Feat 2 322x186",
+    "img": "./images/Le-Pharaoh-slot-feat-2-322x186.jpg"
+  },
+  {
+    "name": "Le Rapper Slot Feat2 326x245",
+    "img": "./images/le-rapper-slot-feat2-326x245.jpg"
+  },
+  {
+    "name": "Le Santa Slot Feat 326x245",
+    "img": "./images/le-santa-slot-feat-326x245.jpg"
+  },
+  {
+    "name": "Let It Snow Hacksaw Feat 322x186",
+    "img": "./images/let-it-snow-hacksaw-feat-322x186.jpg"
+  },
+  {
+    "name": "Le Viking Slot Feat 1 322x186",
+    "img": "./images/le-viking-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Le Zeus Slot Feat 1 322x186",
+    "img": "./images/le-zeus-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Life And Death Slot Feat 1 322x186",
+    "img": "./images/life-and-death-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Magic Piggy Slot Feat 322x186",
+    "img": "./images/magic-piggy-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Marlin Masters Slot Feat 1 322x186",
+    "img": "./images/Marlin-Masters-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Marlin Masters Slot Feat 322x186",
+    "img": "./images/marlin-masters-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Mayan Stackways Slot Feat 1 322x186",
+    "img": "./images/mayan-stackways-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Miami Mayhem Slot Feat 1 322x186",
+    "img": "./images/miami-mayhem-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Mighty Masks Slot Feat 1 322x186",
+    "img": "./images/mighty-masks-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Miss Candys Sweet Escape Slot Feat 326x245",
+    "img": "./images/Miss-Candys-Sweet-Escape-slot-feat-326x245.jpg"
+  },
+  {
+    "name": "Mystery Motel Slot Feat 322x186",
+    "img": "./images/mystery-motel-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Octo Attack Slot Feat 1 322x186",
+    "img": "./images/octo-attack-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Om Nom Feat 322x186",
+    "img": "./images/om-nom-feat-322x186.jpg"
+  },
+  {
+    "name": "Orb Of Destiny Slot Feat 1 322x186",
+    "img": "./images/orb-of-destiny-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Outlaws Inc Hacksaw Slot Feat 322x186",
+    "img": "./images/outlaws-inc-hacksaw-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Phoenix DuelReels Slot Feat 322x186",
+    "img": "./images/Phoenix-DuelReels-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Pray For Three Slot Feat 1 322x186",
+    "img": "./images/Pray-For-Three-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Pug Life Slot Feat 322x186",
+    "img": "./images/pug-life-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Rad Maxx Slot Feat 1 322x186",
+    "img": "./images/Rad-Maxx-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Rainbow Princess Slot Feat 1 322x186",
+    "img": "./images/Rainbow-Princess-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Reign Of Rome Slot Feat 322x186",
+    "img": "./images/Reign-of-Rome-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Rip City Slot Feat 1 322x186",
+    "img": "./images/rip-city-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Rise Of Ymir Slot Feat 322x186",
+    "img": "./images/Rise-of-Ymir-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Rocket Reels Hacksaw Slot Feat 322x186",
+    "img": "./images/rocket-reels-hacksaw-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Ronin StackWays Slot Feat 322x186",
+    "img": "./images/Ronin-StackWays-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Rotten Slot Feat 1 322x186",
+    "img": "./images/rotten-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Rusty Curly Slot Feat 322x186",
+    "img": "./images/rusty-curly-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Shadow Treasure Slot Feat 322x186",
+    "img": "./images/Shadow-Treasure-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Shaolin Master Slot Feat 322x186",
+    "img": "./images/shaolin-master-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Sixsixsix Slot Feat 1 322x186",
+    "img": "./images/sixsixsix-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Slayers Inc Slot Feat 322x186",
+    "img": "./images/slayers-inc-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Smoking Dragon Slot Feat 1 326x245",
+    "img": "./images/smoking-dragon-slot-feat-1-326x245.jpg"
+  },
+  {
+    "name": "Snow Slingers Slot Feat 1 322x186",
+    "img": "./images/snow-slingers-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Spear Of Athena Slot Feat 326x245",
+    "img": "./images/Spear-of-Athena-slot-feat-326x245.jpg"
+  },
+  {
+    "name": "Spinman Slot Feat 322x186",
+    "img": "./images/spinman-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Stack Em Slot Hacksaw Feat 322x186",
+    "img": "./images/stack-em-slot-hacksaw-feat-322x186.jpg"
+  },
+  {
+    "name": "Steamrunners Slot Feat 1 326x245",
+    "img": "./images/Steamrunners-slot-feat-1-326x245.jpg"
+  },
+  {
+    "name": "Stick Em Slot Feat 322x186",
+    "img": "./images/stick-em-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Stormborn Slot Feat 1 326x245",
+    "img": "./images/stormborn-slot-feat-1-326x245.jpg"
+  },
+  {
+    "name": "Stormforged Slot Feat 1 322x186",
+    "img": "./images/stormforged-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Street Knockout Slot Feat 1 322x186",
+    "img": "./images/street-knockout-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Strength Of Hercules Slot Feat 322x186",
+    "img": "./images/Strength-of-Hercules-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Sugar Park Slot Feat 322x186",
+    "img": "./images/sugar-park-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Sun Princess Slot Feat 1 326x245",
+    "img": "./images/sun-princess-slot-feat-1-326x245.jpg"
+  },
+  {
+    "name": "Tai The Toad Slot Feat 322x186",
+    "img": "./images/tai-the-toad-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Tasty Treats Slot Hacksaw Feat 322x186",
+    "img": "./images/tasty-treats-slot-hacksaw-feat-322x186.jpg"
+  },
+  {
+    "name": "Temple Of Torment Slot Feat 322x186",
+    "img": "./images/Temple-of-Torment-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "The Bomb Slot Feat 322x186",
+    "img": "./images/the-bomb-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "The Bowery Boys Slot Feat 322x186",
+    "img": "./images/the-bowery-boys-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "The Count Slot Feat 1 326x245",
+    "img": "./images/the-count-slot-feat-1-326x245.jpg"
+  },
+  {
+    "name": "The Library Slot Feat 1 322x186",
+    "img": "./images/the-library-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "The Luxe Slot Feat 322x186",
+    "img": "./images/the-luxe-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "The Respinners Feat 322x186",
+    "img": "./images/the-respinners-feat-322x186.jpg"
+  },
+  {
+    "name": "The Wildwood Curse Slot Feat 322x186",
+    "img": "./images/the-wildwood-curse-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Through The Fire Slot Feat 326x245",
+    "img": "./images/through-the-fire-slot-feat-326x245.jpg"
+  },
+  {
+    "name": "Tiger Legends Slot Feat 1 322x186",
+    "img": "./images/tiger-legends-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Time Spinners Hacksaw Gaming Slot Feat 322x186",
+    "img": "./images/time-spinners-hacksaw-gaming-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Toshi Video Club Slot Feat 322x186",
+    "img": "./images/toshi-video-club-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Totem Poles Slot Feat 326x245",
+    "img": "./images/totem-poles-slot-feat-326x245.jpg"
+  },
+  {
+    "name": "Twisted Lab RotoGrid Slot Feat 322x186",
+    "img": "./images/Twisted-Lab-RotoGrid-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Ultimate Slot Of America Slot Feat 1 322x186",
+    "img": "./images/Ultimate-Slot-of-America-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Undead Fortune Slot Feat 322x186",
+    "img": "./images/undead-fortune-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Vending Machine Slot Feat 1 322x186",
+    "img": "./images/vending-machine-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Wanted Dead Or A Wild Slot Hacksaw Feat 322x186",
+    "img": "./images/wanted-dead-or-a-wild-slot-hacksaw-feat-322x186.jpg"
+  },
+  {
+    "name": "Warrior Ways Slot Feat 322x186",
+    "img": "./images/warrior-ways-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Wings Of Horus Slot Feat 1 322x186",
+    "img": "./images/wings-of-horus-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Wishbringer Slot Feat 322x186",
+    "img": "./images/Wishbringer-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Xmas Drop Slot Feat 322x186",
+    "img": "./images/xmas-drop-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Xpander Slot Feat 1 322x186",
+    "img": "./images/xpander-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Ze Zeus Slot Feat 1 322x186",
+    "img": "./images/ze-zeus-slot-feat-1-322x186.jpg"
+  }
+]
