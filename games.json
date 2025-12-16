@@ -1,0 +1,646 @@
+[
+  {
+    "name": "2 Wild 2 Die",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2023/11/2-wild-2-die-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "8-Bit Quest",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/12/8-bit-quest-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Aiko and the Wind Spirit",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/04/Aiko-and-the-Wind-Spirit-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Alchemist Wonders",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/07/alchemist-wonders-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Alpha Eagle",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2022/07/alpha-eagle-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Army of Ares",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/09/army-of-ares-slot-feat-326x245.jpg"
+  },
+  {
+    "name": "Aztec Twist",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2021/04/aztec-twist-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Bash Bros",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/07/Bash-Bros-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Beam Boys",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2023/11/beam-boys-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Beast Below",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2023/05/beast-below-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Benny The Beer",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2023/08/benny-the-beer-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Bloodthirst",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2022/11/bloodthirst-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Booze Bash",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/03/booze-bash-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Born Wild",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2021/05/born-wild-slot-hacksaw-feat-322x186.jpg"
+  },
+  {
+    "name": "Bouncy Bombs",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2023/11/bouncy-bombs-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Break Bones",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2022/07/break-bones-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Buffalo Stack \u2018n\u2019 Sync",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2022/02/buffalo-stack-n-sync-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Bullets and Bounty",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/05/Bullets-and-Bounty-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Canny the Can and the Book of Time",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2022/07/book-of-time-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Cash Compass",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2020/05/cash-compass-feat-322x186.jpg"
+  },
+  {
+    "name": "Cash Crew",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/02/cash-crew-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Cash Quest",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2021/10/cash-quest-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Chaos Crew",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2020/09/chaos-crew-feat-322x186.jpg"
+  },
+  {
+    "name": "Chaos Crew 2",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2023/05/Chaos-Crew-2-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Chaos Crew 3",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/06/chaos-crew-3-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Circle of Life",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/11/Circle-of-Life-slot-feat-1-326x245.jpg"
+  },
+  {
+    "name": "Cloud Princess",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/06/Cloud-Princess-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Club Cabana",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/05/club-cabana-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Cubes",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2020/05/cubes-feat-322x186.jpg"
+  },
+  {
+    "name": "Cubes 2",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2021/01/cubes-2-slot-hacksaw-feat-322x186.jpg"
+  },
+  {
+    "name": "Cup Heroes",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/06/cup-heroes-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Cursed Crypt",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/03/cursed-crypt-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Cursed Seas",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2023/02/cursed-seas-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Danny Dollar",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/02/danny-dollar-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Dark Summoning",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2023/08/dark-summoning-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Dawn of Kings",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2023/11/dawn-of-kings-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Dead Headz",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/07/Dead-Headz-slot-feat-1-326x245.jpg"
+  },
+  {
+    "name": "Densho",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2023/05/densho-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Divine Drop",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/02/divine-drop-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Donny And Danny",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/09/donny-and-danny-slot-feat-326x245.jpg"
+  },
+  {
+    "name": "Donny Dough",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/06/donny-dough-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Donut Division",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/09/Donut-Division-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Dork Unit",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2022/05/dork-unit-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Dorks of the Deep",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/12/Dorks-of-the-Deep-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Double Rainbow",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2021/11/double-rainbow-feat-322x186.jpg"
+  },
+  {
+    "name": "Dragon\u2019s Domain",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/06/dragons-domain-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Drop \u2018Em",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2023/05/drop-em-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Duel At Dawn",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/07/Duel-At-Dawn-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Eternal Nile",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/04/eternal-nile-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Evil Dozen",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/10/evil-dozen-slot-feat-1-326x245.jpg"
+  },
+  {
+    "name": "Evil Eyes",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/06/evil-eyes-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Eye of Medusa",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/03/Eye-of-Medusa-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Eye of the Panda",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2023/08/eye-of-the-panda-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Farmhouse",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/11/farmhouse-slot-feat-326x245.jpg"
+  },
+  {
+    "name": "Fear the Dark",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2023/02/fear-the-dark-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Feel the Beat",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2023/11/feel-the-beat-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Fighter Pit",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/02/Fighter-Pit-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Fire My Laser",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/09/fire-my-laser-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Fist of Destruction",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2023/11/Fist-of-Destruction-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Forbidden Fury",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/08/forbidden-fury-slot-feat-326x245.jpg"
+  },
+  {
+    "name": "Forest Fortune",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2020/12/forest-fortune-feat-322x186.jpg"
+  },
+  {
+    "name": "Frank\u2019s Farm",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2022/11/franks-farm-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Fred\u2019s Food Truck",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2023/06/freds-food-truck-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "FRKN Bananas",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/11/frkn-bananas-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Fruit Duel",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2022/07/fruit-duel-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Frutz",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2021/04/frutz-slot-hacksaw-feat-322x186.jpg"
+  },
+  {
+    "name": "Get The Cheese",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/06/get-the-cheese-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Gladiator Legends",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2022/02/gladiator-legends-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Gronk\u2019s Gems",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2022/07/gronks-gems-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Hand of Anubis",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2022/02/hand-of-anubis-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Harvest Wilds",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2021/11/harvest-wilds-hoppers-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Hop \u2018N\u2019 Pop",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2021/05/hop-n-pop-slot-hacksaw-feat-322x186.jpg"
+  },
+  {
+    "name": "Hounds of Hell",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/11/Hounds-of-Hell-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Immortal Desire",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2023/08/Immortal-Desire-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Invictus",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/04/invictus-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Itero Echospins",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2022/02/itero-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Jaws of Justice",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/08/Jaws-of-Justice-slot-feat-1-326x245.jpg"
+  },
+  {
+    "name": "Jelly Slice",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/02/jelly-slice-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Joker Bombs",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2021/11/joker-bombs-slot-feat-2-322x186.jpg"
+  },
+  {
+    "name": "Keep \u2018Em",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/02/keep-em-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Keep \u2018Em Cool",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2022/11/keep-em-cool-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "King Carrot",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2021/11/king-carrot-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Klowns",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/10/klowns-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Le Bandit",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2023/02/le-bandit-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Le Cowboy",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/08/le-cowboy-slot-feat-326x245.jpg"
+  },
+  {
+    "name": "Le King",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/03/le-king-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Le Pharaoh",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/06/Le-Pharaoh-slot-feat-2-322x186.jpg"
+  },
+  {
+    "name": "Le Rapper",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/11/le-rapper-slot-feat2-326x245.jpg"
+  },
+  {
+    "name": "Le Santa",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/08/le-santa-slot-feat-326x245.jpg"
+  },
+  {
+    "name": "Le Viking",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/11/le-viking-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Le Zeus",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/06/le-zeus-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Let It Snow",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2020/09/let-it-snow-hacksaw-feat-322x186.jpg"
+  },
+  {
+    "name": "Life and Death",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/12/life-and-death-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Magic Piggy",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2022/11/magic-piggy-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Marlin Masters",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/12/Marlin-Masters-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Marlin Masters The Big Haul",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/05/marlin-masters-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Mayan Stackways",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2023/02/mayan-stackways-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Miami Mayhem",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/05/miami-mayhem-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Mighty Masks",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2023/05/mighty-masks-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Miss Candy\u2019s Sweet Escape",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/09/Miss-Candys-Sweet-Escape-slot-feat-326x245.jpg"
+  },
+  {
+    "name": "Mystery Motel",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2020/11/mystery-motel-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Octo Attack",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/06/octo-attack-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Om Nom",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2019/11/om-nom-feat-322x186.jpg"
+  },
+  {
+    "name": "Orb of Destiny",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/02/orb-of-destiny-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Outlaws Inc",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2022/02/outlaws-inc-hacksaw-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Phoenix DuelReels",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/11/Phoenix-DuelReels-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Pray For Three",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/02/Pray-For-Three-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Pug Life",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2022/07/pug-life-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Rad Maxx",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/02/Rad-Maxx-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Rainbow Princess",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/05/Rainbow-Princess-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Reign of Rome",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/02/Reign-of-Rome-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "RIP City",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2022/11/rip-city-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Rise of Ymir",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/06/Rise-of-Ymir-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Rocket Reels",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2021/08/rocket-reels-hacksaw-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Ronin StackWays",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2023/05/Ronin-StackWays-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Rotten",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2022/11/rotten-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Rusty & Curly",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2023/11/rusty-curly-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Shadow Treasure",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/07/Shadow-Treasure-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Shaolin Master",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/09/shaolin-master-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "SixSixSix",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/06/sixsixsix-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Slayers Inc",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/05/slayers-inc-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Smoking Dragon",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/11/smoking-dragon-slot-feat-1-326x245.jpg"
+  },
+  {
+    "name": "Snow Slingers",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/08/snow-slingers-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Spear of Athena",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/09/Spear-of-Athena-slot-feat-326x245.jpg"
+  },
+  {
+    "name": "Spinman",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/02/spinman-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Stack \u2018Em",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2021/05/stack-em-slot-hacksaw-feat-322x186.jpg"
+  },
+  {
+    "name": "Steamrunners",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/09/Steamrunners-slot-feat-1-326x245.jpg"
+  },
+  {
+    "name": "Stick \u2018Em",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2019/09/stick-em-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Stormborn",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/06/stormborn-slot-feat-1-326x245.jpg"
+  },
+  {
+    "name": "Stormforged",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2022/11/stormforged-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Street Knockout",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/04/street-knockout-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Strength of Hercules",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/12/Strength-of-Hercules-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Sugar Park",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/05/sugar-park-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Sun Princess",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/07/sun-princess-slot-feat-1-326x245.jpg"
+  },
+  {
+    "name": "Tai The Toad",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/06/tai-the-toad-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Tasty Treats",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2021/10/tasty-treats-slot-hacksaw-feat-322x186.jpg"
+  },
+  {
+    "name": "Temple of Torment",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2023/05/Temple-of-Torment-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "The Bomb",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2020/08/the-bomb-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "The Bowery Boys",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2021/11/the-bowery-boys-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "The Count",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/07/the-count-slot-feat-1-326x245.jpg"
+  },
+  {
+    "name": "The Haunted Circus",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2020/05/hauntedcircus-feat-322x186.jpg"
+  },
+  {
+    "name": "The Library",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/12/the-library-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "The Luxe",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/04/the-luxe-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "The Respinners",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2020/05/the-respinners-feat-322x186.jpg"
+  },
+  {
+    "name": "The Wildwood Curse",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/07/the-wildwood-curse-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Through the Fire",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/09/through-the-fire-slot-feat-326x245.jpg"
+  },
+  {
+    "name": "Tiger Legends",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/06/tiger-legends-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Time Spinners",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2022/05/time-spinners-hacksaw-gaming-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Toshi Video Club",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2021/05/toshi-video-club-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Totem Poles",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/10/totem-poles-slot-feat-326x245.jpg"
+  },
+  {
+    "name": "Twisted Lab RotoGrid",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/03/Twisted-Lab-RotoGrid-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Ultimate Slot of America",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/03/Ultimate-Slot-of-America-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Undead Fortune",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2022/07/undead-fortune-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Vending Machine",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2023/05/vending-machine-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Wanted Dead or a Wild",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2021/08/wanted-dead-or-a-wild-slot-hacksaw-feat-322x186.jpg"
+  },
+  {
+    "name": "Warrior Ways",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2021/11/warrior-ways-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Wings of Horus",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/08/wings-of-horus-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Wishbringer",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2025/01/Wishbringer-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Xmas Drop",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2023/08/xmas-drop-slot-feat-322x186.jpg"
+  },
+  {
+    "name": "Xpander",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2021/05/xpander-slot-feat-1-322x186.jpg"
+  },
+  {
+    "name": "Ze Zeus",
+    "img": "https://images.weserv.nl/?url=www.bigwinboard.com/wp-content/uploads/2024/03/ze-zeus-slot-feat-1-322x186.jpg"
+  }
+]
